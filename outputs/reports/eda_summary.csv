@@ -1,0 +1,8 @@
+Observation,Finding
+Higher Age,Higher Churn
+Inactive Members,Higher Churn
+Single Product,Higher Churn
+Higher Balance,Higher Churn
+Geography,Region Dependent
+Estimated Salary,Weak Effect
+Credit Card,Low Effect

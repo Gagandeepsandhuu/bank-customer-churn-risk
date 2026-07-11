@@ -1,0 +1,13 @@
+Feature,Description
+BalanceSalaryRatio,Balance / Salary
+ProductDensity,Products / Tenure
+EngagementScore,Customer Engagement
+AgeTenureInteraction,Age x Tenure
+BalancePerProduct,Balance Per Product
+CreditCategory,Credit Category
+AgeGroup,Age Group
+HighBalanceFlag,High Balance
+HighSalaryFlag,High Salary
+LoyalCustomer,Loyal Customer
+SeniorCitizen,Senior Citizen
+FinancialScore,Financial Stability
