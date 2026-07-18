@@ -47,7 +47,7 @@ dataset_path = r"C:\Users\91771\Desktop\bank churns.py\European_Bank.csv"
 
 try:
 
-    df = pd.read_csv(r"C:\Users\91771\Desktop\bank churns.py\European_Bank.csv")
+    df = pd.read_csv(r"C:\Users\91771\Desktop\bank churns\European_Bank.csv")
 
     print("Dataset Loaded Successfully.\n")
 
